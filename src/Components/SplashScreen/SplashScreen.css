@@ -1,0 +1,12 @@
+.splash-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.logo {
+  width: 500px;
+  height: 400px;
+}

@@ -1,0 +1,15 @@
+.position-relative {
+    position: relative;
+  }
+  
+  .select-with-icon {
+    padding-right: 2rem;
+  }
+  
+  .select-icon {
+    position: absolute;
+    top: 50%;
+    right: 0.5rem;
+    transform: translateY(50%);
+    pointer-events: none; 
+  }

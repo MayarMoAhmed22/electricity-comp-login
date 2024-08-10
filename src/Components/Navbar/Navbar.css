@@ -1,0 +1,23 @@
+.navbar-logo {
+  height: 100px;
+}
+
+.logo-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+.center-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
